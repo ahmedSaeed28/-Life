@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">+ Life</string>
+    <string name="title_activity_home">الرئيسية</string>
+    <string name="title_activity_profile">الصفحة الشخصية</string>
+    <string name="title_activity_new_request">طلب جديد</string>
+    <string name="title_activity_edit_profile">تعديل الصفحة الشخصية</string>
+    <string name="title_activity_user_request">طلباتي</string>
+    <string name="title_activity_notification">هناك شخص بحاجة اليك</string>
+
+    <string name="name_hint">الاسم</string>
+    <string name="email_hint">البريد الاكتروني</string>
+    <string name="password_hint">كلمة المرور</string>
+    <string name="confirm_password_hint">تأكيد كلمة المرور</string>
+    <string name="forget_password_button">نسيت كلمة المرور؟</string>
+    <string name="phone_hint">الهاتف</string>
+    <string name="gender_hint">الجنس</string>
+    <string name="male_word">ذكر</string>
+    <string name="female_word">انثى</string>
+    <string name="blood_type_word">فصيلة الدم الخاصة بك</string>
+    <string name="login_button">تسجيل الدخول</string>
+    <string name="sign_up_button">انشاء حساب</string>
+    <string name="enter_your_email">ادخل بريدك الالكتروني</string>
+    <string name="send_button">ارسل بريد لاعادة تعيين كلمة المرور</string>
+    <string name="cancel_button">الغاء</string>
+    <string name="edit_button">تعديل</string>
+    <string name="save_button">حفظ</string>
+    <string name="patient_name_hint">اسم المريض</string>
+    <string name="patient_blood_type_word">فصيلة دم المريض</string>
+    <string name="phone_to_connect_hint">هاتف للتواصل</string>
+    <string name="hospital_hint">المستشفى</string>
+    <string name="city_hint">المحافظة</string>
+    <string name="request_button">طلب</string>
+    <string name="search_By_hint">البحث بواسطة المحافظة او فصيلة الدم</string>
+    <string name="sure_word">هل انت متأكد؟</string>
+    <string name="yes_word">نعم</string>
+    <string name="no_word">لا</string>
+    <string name="need_word">مطلوب</string>
+    <string name="by_word">بواسطة</string>
+    <string name="profile_word">الصفحة الشخصية</string>
+    <string name="my_requests_word">طلباتي</string>
+    <string name="log_out_word">تسجيل خروج</string>
+    <string name="password_rest_email_sent">تم ارسال بريد الكتروني لتعيين كلمة المرور</string>
+    <string name="delete_button">حذف</string>
+    <string name="delete_message">يتم الحذف...</string>
+    <string name="notification_title">هناك شخص بحاجة اليك</string>
+    <string name="done_message">تم بنجاح</string>
+    <string name="no_request_message">لا يوجد طلبات</string>
+
+    <string name="error_invalid_password">كلمة مرور غير صالحة</string>
+    <string name="error_incorrect_password">كلمة مرور خاطئة</string>
+    <string name="error_password_does_not_match">كلمة المرور غير متطابقة</string>
+    <string name="error_field_required">حقل مطلوب</string>
+    <string name="error_invalid_email">بريد الكتروني غير صحيح</string>
+    <string name="error_no_internet_connection">غير متصل بالشبكة</string>
+    <string name="error_invalid_email_or_password">بريد الكتروني او كلمة مرور غير صحيحة</string>
+    <string name="error_failed">لقد حدث خطأ من فضلك اعد المحاولة</string>
+
+
+</resources>

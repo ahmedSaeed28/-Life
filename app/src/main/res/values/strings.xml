@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">+ Life</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="title_activity_new_request">New Request</string>
+    <string name="title_activity_edit_profile">Edit Profile</string>
+    <string name="title_activity_user_request">My Request</string>
+    <string name="title_activity_notification">There is some need your help</string>
+
+    <string name="name_hint">Name</string>
+    <string name="email_hint">Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="forget_password_button">Forget Password</string>
+    <string name="phone_hint">Phone</string>
+    <string name="gender_hint">Gender</string>
+    <string name="male_word">Male</string>
+    <string name="female_word">Female</string>
+    <string name="blood_type_word">Your Blood Type</string>
+    <string name="login_button">Login</string>
+    <string name="sign_up_button">Sign up</string>
+    <string name="enter_your_email">Your Email Address</string>
+    <string name="send_button">Send Reset Email</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="edit_button">Edit</string>
+    <string name="save_button">Save</string>
+    <string name="patient_name_hint">Patient Name</string>
+    <string name="patient_blood_type_word">Patient Blood Type</string>
+    <string name="phone_to_connect_hint">Phone to connect</string>
+    <string name="hospital_hint">Hospital</string>
+    <string name="city_hint">City</string>
+    <string name="request_button">Request</string>
+    <string name="search_By_hint">Search By Blood Type or City</string>
+    <string name="sure_word">Are you sure ?</string>
+    <string name="yes_word">Yes</string>
+    <string name="no_word">No</string>
+    <string name="need_word">Need</string>
+    <string name="by_word">by</string>
+    <string name="profile_word">Profile</string>
+    <string name="my_requests_word">My Requests</string>
+    <string name="log_out_word">Log out</string>
+    <string name="password_rest_email_sent">You have receive an email to rest your password</string>
+    <string name="delete_button">Delete</string>
+    <string name="delete_message">Deleting...</string>
+    <string name="notification_title">There is some needs your help</string>
+    <string name="done_message">Done Successfully</string>
+    <string name="no_request_message">No Request</string>
+
+    <string name="error_invalid_password">Invalid Password</string>
+    <string name="error_incorrect_password">Incorrect Password</string>
+    <string name="error_password_does_not_match">Password does not match</string>
+    <string name="error_field_required">Field Required</string>
+    <string name="error_invalid_email">Invalid Email</string>
+    <string name="error_no_internet_connection">No Internet Connection</string>
+    <string name="error_invalid_email_or_password">Invalid Email or Password</string>
+    <string name="error_failed">There is some thing wrong please try again</string>
+
+
+</resources>
