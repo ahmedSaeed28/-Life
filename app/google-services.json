@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "206503996970",
+    "firebase_url": "https://plus-life.firebaseio.com",
+    "project_id": "plus-life",
+    "storage_bucket": "plus-life.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206503996970:android:4b3b7f410e545f44",
+        "android_client_info": {
+          "package_name": "saeed.life"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206503996970-2j3jp4anh2d1vn773peb0lvtm72abq8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "saeed.life",
+            "certificate_hash": "4571BEE43D6DF462CBCDCEACCD81A6F6EBF4D7CD"
+          }
+        },
+        {
+          "client_id": "206503996970-58t0egjs8rc57f1cq5u0btrqk5ahrboh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "saeed.life",
+            "certificate_hash": "121BAF3488F12318916DEE319606E03092C2BE30"
+          }
+        },
+        {
+          "client_id": "206503996970-iidb94hr8sq62fel5i077i8crcdu56t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArFK7gCR-HB04bKLcaszBbzKCV3gD1KuE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206503996970-iidb94hr8sq62fel5i077i8crcdu56t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
